@@ -1,0 +1,10 @@
+step 1) unzip the rtlwifi_new-rock.new_btcoex.zip into a directory named rtlwifi_new-rock.new_btcoex
+
+step 2) type cd rtlwifi_new-rock.new_btcoex in the terminal
+
+step 3) find a file named wifi.sh
+
+step 4) run the shell script in the console like sudo sh wifi.sh
+
+step 5) done
+
